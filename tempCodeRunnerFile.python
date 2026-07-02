@@ -1,1 +1,0 @@
-print("New journey of python")
