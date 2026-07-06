@@ -20,6 +20,7 @@ This repository documents my Python learning journey from basic concepts to adva
 ##  Course Progress
 
 - [x] Basic Fundamentals of Python
+- [x] Print function
 - [ ] Conditional Statements
 - [ ] Loops
 - [ ] Functions
