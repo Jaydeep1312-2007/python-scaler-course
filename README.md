@@ -21,6 +21,7 @@ This repository documents my Python learning journey from basic concepts to adva
 
 - [x] Basic Fundamentals of Python
 - [x] Print function
+- [x] Operator
 - [x] Control FLow with one mini project
 - [ ] Loops
 - [ ] Functions
