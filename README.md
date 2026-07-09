@@ -47,6 +47,7 @@ This repository documents my Python learning journey from basic concepts to adva
 python-scaler/
 │
 ├── Basic Fundamentals of Python/
+├── operator
 ├── Control Flow/
 ├── Loops/
 ├── Functions/
