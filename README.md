@@ -21,7 +21,7 @@ This repository documents my Python learning journey from basic concepts to adva
 
 - [x] Basic Fundamentals of Python
 - [x] Print function
-- [ ] Conditional Statements
+- [x] Control FLow with one mini project
 - [ ] Loops
 - [ ] Functions
 - [ ] Strings
@@ -46,7 +46,7 @@ This repository documents my Python learning journey from basic concepts to adva
 python-scaler/
 │
 ├── Basic Fundamentals of Python/
-├── Conditional Statements/
+├── Control Flow/
 ├── Loops/
 ├── Functions/
 ├── Strings/
@@ -64,6 +64,10 @@ python-scaler/
 ```
 
 ---
+
+## Projects
+
+- I can make a ATM System with using of if-elif-else 
 
 ##  Technologies
 
