@@ -23,7 +23,7 @@ This repository documents my Python learning journey from basic concepts to adva
 - [x] Print function
 - [x] Operator
 - [x] Control FLow with one mini project
-- [ ] Loops
+- [x] Loops with mini project
 - [ ] Functions
 - [ ] Strings
 - [ ] Lists
@@ -47,7 +47,7 @@ This repository documents my Python learning journey from basic concepts to adva
 python-scaler/
 │
 ├── Basic Fundamentals of Python/
-├── operator
+├── operator/
 ├── Control Flow/
 ├── Loops/
 ├── Functions/
@@ -70,6 +70,7 @@ python-scaler/
 ## Projects
 
 - I can make a ATM System with using of if-elif-else 
+- I can make a number guess game using loops
 
 ##  Technologies
 
