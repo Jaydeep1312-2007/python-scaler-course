@@ -25,7 +25,7 @@ This repository documents my Python learning journey from basic concepts to adva
 - [x] Control FLow with one mini project
 - [x] Loops with mini project
 - [ ] Functions
-- [ ] Strings
+- [x] Strings with mini project
 - [ ] Lists
 - [ ] Tuples
 - [ ] Dictionaries
@@ -71,6 +71,7 @@ python-scaler/
 
 - I can make a ATM System with using of if-elif-else 
 - I can make a number guess game using loops
+- I can make a password Checker System
 
 ##  Technologies
 
