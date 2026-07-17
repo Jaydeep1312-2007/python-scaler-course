@@ -26,7 +26,7 @@ This repository documents my Python learning journey from basic concepts to adva
 - [x] Loops with mini project
 - [x] Strings with mini project
 - [x] Lists
-- [ ] Tuples
+- [x] Tuples
 - [ ] Dictionaries
 - [ ] Sets
 - [ ] Functions
@@ -50,7 +50,6 @@ python-scaler/
 ├── operator/
 ├── Control Flow/
 ├── Loops/
-├── Functions/
 ├── Strings/
 ├── Lists/
 ├── Tuples/
@@ -58,6 +57,7 @@ python-scaler/
 ├── Sets/
 ├── OOP/
 ├── File Handling/
+├── Functions/
 ├── Exception Handling/
 ├── Projects/
 │
@@ -73,6 +73,7 @@ python-scaler/
 - I can make a number guess game using loops
 - I can make a password Checker System
 - I can make a student management system using a list
+- I can make a movie ticket booking system using tuple
 
 ##  Technologies
 
