@@ -27,7 +27,7 @@ This repository documents my Python learning journey from basic concepts to adva
 - [x] Strings with mini project
 - [x] Lists
 - [x] Tuples
-- [ ] Dictionaries
+- [x] Dictionaries
 - [ ] Sets
 - [ ] Functions
 - [ ] Object-Oriented Programming (OOP)
@@ -74,6 +74,7 @@ python-scaler/
 - I can make a password Checker System
 - I can make a student management system using a list
 - I can make a movie ticket booking system using tuple
+- I can make a Contact book using Dictionary
 
 ##  Technologies
 
