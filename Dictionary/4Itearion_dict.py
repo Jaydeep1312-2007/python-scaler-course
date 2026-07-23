@@ -14,11 +14,21 @@ print("Only keys")
 for i in product:
     print(i)
 
+print("key using a keys() function")
+for i in product.keys():
+    print(i)
+
+
 #only print values
 
 print("Only values")
 for i in product:
     print(product[i])
+
+print("Value using a values() function")
+
+for i in product.values():
+    print(i)
 
 # Both print with a simple methods
 
